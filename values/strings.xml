@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yahoo Stock Checker</string>
+    <string name="subTitle1">Price: </string>
+    <string name="subTitle2">Volume: </string>
+    <string name="subTitle3">P/E: </string>
+    <string name="subTitle4">Div./Yield: </string>
+    <string name="Title1">*Enter symbol Here*</string>
+    <string name="Title2">Price</string>
+
+</resources>
